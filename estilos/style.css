@@ -1,26 +1,42 @@
 @charset "UTF8";
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-body, main {
-    font-family: Arial, Helvetica, sans-serif;
+body,
+main {
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 main {
-    height: 100vh;
-    display: flex;
-    flex-flow: column nowrap;
-    align-items: center;
-    justify-content: center;
-    gap: 5vh;
- 
+  height: 100vh;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: center;
+  gap: 5vh;
 }
 .button {
-    width: 80px;
+  width: 80px;
 }
 
-  
+#red:hover {
+  color: red;
+  background-color: black;
+}
+
+#yellow:hover {
+  color: yellow;
+  background-color: black;
+}
+#green:hover {
+  color: green;
+  background-color: black;
+}
+#automatic:hover {
+  color: white;
+  background-color: black;
+}
