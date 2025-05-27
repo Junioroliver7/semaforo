@@ -1,7 +1,7 @@
 # semaforo
 Projeto - semáforo Interativo
 
-Um projeto simples de semáforo interativo, desenvolvido com HTML, CSS E Javascript. 
+Um projeto simples de semáforo interativo, desenvolvido com HTML, CSS e Javascript. 
 Clique nos botões para mudar a cor do semáforo.
 
 Funcionalidades
